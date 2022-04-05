@@ -14,10 +14,10 @@ hr {
 }
 
 a {
-  color: #f3a14b;
+  color: #123c69;
 }
 a:hover {
-  color: #93ada4;
+  color: #5f8bb9;
   text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #eadfc9;
+  background-color: #eee2dc;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -34,15 +34,15 @@ header.masthead {
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
-  color: #dc7646;
+  color: #e06c8f;
 }
 .masthead-full-name {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Bungee Shade', cursive;
   text-transform: uppercase;
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: #f3a14b;
+  color: #123c69;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
@@ -53,7 +53,7 @@ header.masthead {
 }
 
 .bg-primary {
-  background-color: #eadfc9 !important;
+  background-color: #eee2dc !important;
 }
 
 .img-profile {
@@ -71,7 +71,7 @@ header.masthead {
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 50% !important; 
 }
 
 .subheading {
@@ -86,7 +86,7 @@ header.masthead {
   font-family: 'Anton', sans-serif;
   font-weight: 450;
   line-height: 1.2;
-  color: #343a40;
+  color: #123c69;
 }
 
 .font-italic {
@@ -94,7 +94,7 @@ header.masthead {
 }
 
 .text-primary {
-  color: #f3a14b !important;
+  color: #e06c8f !important;
 }
 
 .text-dark {
@@ -107,7 +107,7 @@ header.masthead {
   justify-content: center;
   height: 3rem;
   width: 3rem;
-  background-color: #6c757d;
+  background-color: #123c69;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -131,7 +131,7 @@ header.masthead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #dc7646;
+  background-color: #5f8bb9;
 }
 
 .dev-icons {
@@ -141,22 +141,22 @@ header.masthead {
 .footer {
   text-align: center;
   font-size: 0.9rem;
-  background-color: #eadfc9;
+  background-color: #eee2dc;
 }
 
 /* CV navbar styling */
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #123c69;
 }
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #123c69;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: #f3a14b;
+  color: #123c69;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: #93ada4;
+  color: #5f8bb9;
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
@@ -165,7 +165,7 @@ header.masthead {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #93ada4;
+  color: #5f8bb9;
 }
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.5);
@@ -181,20 +181,20 @@ header.masthead {
   color: #fff;
 }
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
-  color: #93ada4;
+  color: #123c69;
 }
 
 /* Button Styling */
 
 .btn-primary {
   color: #f8f9fa;
-  background-color: #f3a14b;
-  border-color: #f3a14b;
+  background-color: #123c69;
+  border-color: #123c69;
 }
 
 .btn-primary:hover {
   color: #f8f9fa;
-  background-color: #93ada4;
+  background-color: #194d86;
   border-color:#93ada4;
 }
 .btn-primary:focus, .btn-primary.focus {
@@ -311,35 +311,35 @@ header.masthead {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #eadfc9;
+  background-color: #eee2dc;
   color: #f8f9fa;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
   font-size: 1.25rem;
-  color: #dc7646;
+  color: #123C69;
   text-transform: uppercase;
-  background-color: #bfdbcf;
+  background-color: #eee2dc;
   border: 0;
 }
 #mainNav .navbar-brand {
-  color: #dc7646;
+  color: #123c69;
   font-weight: 700;
   letter-spacing: 0.0625em;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Bungee Shade', cursive;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 0.95rem;
-  color: #dc7646;
+  color: #123c69;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
-  color: #DB995A;
+  color: #123c69;
 } 
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #DB995A;
+  color: #5f8bb9;
 }
 
 @media (min-width: 992px) {
@@ -361,7 +361,7 @@ header.masthead {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #eadfc9;
+    background-color: #eee2dc;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -395,7 +395,7 @@ header.masthead {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #93ada4;
+  background: #e06c8f;
   align-items: center;
   justify-content: center;
   opacity: 0;
